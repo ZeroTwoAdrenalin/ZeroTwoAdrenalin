@@ -622,6 +622,9 @@ footer {
   .mobile_item {
     width: 300px;
   }
+  .choice {
+    min-height: 1000px;
+  }
 }
 @media (max-width: 991px) {
   .menu_item {
@@ -639,6 +642,9 @@ footer {
   .subheader_button {
     width: 162px;
     height: 43px;
+  }
+  .choice {
+    min-height: 800px;
   }
   .reason .title {
     font-size: 35px;
