@@ -549,7 +549,7 @@ footer {
   font-weight: 300;
   text-transform: uppercase;
 }
-.footer_wrapper_anti_links_main:hover {
+.footer_wrapper_anti_links_main a:hover {
   content: "";
   text-decoration: underline;
 }
